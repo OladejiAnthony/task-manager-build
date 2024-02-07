@@ -1,0 +1,8 @@
+#Task manager built with useState () hook, then later 
+#refactored using useReducer() hook for better state management.
+
+--For useReducer () hook build, we included the following:
+#All input details are saved inside local storage
+#We built our own Alert component which is used for custom notification
+#We built a custom confirm Modal(dialog box) also to edit and delete tasks.
+
